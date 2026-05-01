@@ -21,5 +21,23 @@ Mastercard, Amazon, Microsoft, Constellation Software, ASML, Google, Fair Isaac,
 N/A
 
 ### Prérequis
-```bash
+bash
+```
 pip install streamlit yfinance plotly pandas python-dotenv requests
+```
+
+### Configuration
+Créer un fichier ⁠.env à la racine du projet :
+```
+ NEWS_API_KEY=ta_clé_newsapi
+```
+ Lancement
+ ```
+ streamlit run bourse.py
+```
+
+ Auteur
+Maxime Sarton
+ 
+Colle ça dans ton README sur GitHub et commit ! 😊
+ 
