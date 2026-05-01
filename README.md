@@ -39,5 +39,3 @@ Créer un fichier ⁠.env à la racine du projet :
  Auteur
 Maxime Sarton
  
-Colle ça dans ton README sur GitHub et commit ! 😊
- 
